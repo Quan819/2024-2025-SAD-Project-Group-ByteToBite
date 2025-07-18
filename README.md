@@ -1,7 +1,7 @@
 # 2024-2025-SAD-Project-Group-ByteToBite
 This repository contains a collection of projects and a demo prototype developed as part of course SECD2613-System Analysis and Design.
 
-🧩 Project 1
+🧩** Project 1**
 
 Description:
 
