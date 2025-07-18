@@ -32,3 +32,6 @@ Video about the prototype design and demo
 
 Demo Video: [Watch here](https://youtu.be/QF0t46sJc5E)
 
+🚀 **Prototype Design**
+
+Figma Link: https://www.figma.com/design/U37mHQzwukLNojTJq5B4TU/Sedap-Kitchen-Management-System?node-id=0-1&t=TgfwTS648zFsuNMN-1
